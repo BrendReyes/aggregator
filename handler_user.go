@@ -56,3 +56,5 @@ func handlerRegister(s *state, cmd command) error {
 	fmt.Println(user)
     return nil
 }
+
+
